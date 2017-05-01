@@ -6,10 +6,12 @@ Inspired from [thirsty](https://github.com/kalbhor/thirsty)
 
 Just run it once in your Bash & it'll prompt every 2 hours to Drink Water
 
-(1) Entered YES
+# 1. Entered YES
+
 ![1](http://imgur.com/FuTwLYt.png)
 
-(2) Entered NO
+# 2. Entered NO
+
 ![2](http://imgur.com/1SXkewD.png)
 
 ## License
